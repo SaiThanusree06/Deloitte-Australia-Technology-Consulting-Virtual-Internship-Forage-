@@ -35,5 +35,4 @@ Completed through Forage
 
 This project was completed as part of a self-paced virtual experience through [Forage](https://www.theforage.com/).
 
-## 📁 Folder Structure
 
