@@ -15,7 +15,7 @@ This project simulates the work of a data analyst at Deloitte. It includes data 
 
 ## 📊 Dashboard Preview
 
-![Dashboard](assets/Screenshot1.png)
+![Screenshot1](assets/Screenshot1.png)
 
 ## 🛠️ Tools & Technologies
 
@@ -30,7 +30,7 @@ This project simulates the work of a data analyst at Deloitte. It includes data 
 **Deloitte Australia – Technology Job Simulation**  
 Completed through Forage
 
-![Deloitte Certificate](certificates/Screenshot2.png)
+![Screenshot2](certificates/Screenshot2.png)
 
 
 This project was completed as part of a self-paced virtual experience through [Forage](https://www.theforage.com/).
